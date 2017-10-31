@@ -1,4 +1,4 @@
-# Оulia ВockerHub
+# Julia DockerHub
 DockerHub files for https://hub.docker.com/r/mrlsd/julia/
 
 Ease to use Julia languafe via Docker without installation Julia locally.
